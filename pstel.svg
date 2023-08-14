@@ -1,0 +1,21 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Massa do Pastel -->
+  <path d="M20,180 Q100,20 180,180 Z" fill="#D9A068" />
+
+  <!-- Recheio de Carne -->
+  <circle cx="100" cy="100" r="70" fill="#784D28" />
+
+  <!-- Detalhes da Massa -->
+  <ellipse cx="75" cy="160" rx="25" ry="15" fill="#D9A068" />
+  <ellipse cx="125" cy="160" rx="25" ry="15" fill="#D9A068" />
+  <ellipse cx="100" cy="140" rx="50" ry="20" fill="#D9A068" />
+
+  <!-- Detalhes do Recheio -->
+  <ellipse cx="80" cy="90" rx="30" ry="15" fill="#A53913" />
+  <ellipse cx="120" cy="90" rx="30" ry="15" fill="#A53913" />
+  <circle cx="100" cy="120" r="25" fill="#A53913" />
+
+  <!-- Linhas de Decoração -->
+  <line x1="70" y1="110" x2="130" y2="110" stroke="#A53913" stroke-width="4" />
+  <line x1="70" y1="130" x2="130" y2="130" stroke="#A53913" stroke-width="4" />
+</svg>
